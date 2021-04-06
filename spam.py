@@ -7,8 +7,8 @@ s = Session()
 
 print("Spam Call by Xractz - IndoSec\nThis tool delays 5 seconds per spam so as not to limit!\nUse Country Code (ex: 62xxxxx29)")
 try:
-	no = int(input("No    : "))
-	jml = int(input("Count : "))
+	no = int(input("No    :6282168142026 "))
+	jml = int(input("Count :1 "))
 	print()
 except:
 	print("\n\t* Only Number *")
